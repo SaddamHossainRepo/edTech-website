@@ -58,4 +58,9 @@
     .img{
         width: 100%;
     }
+    .ready-to-join{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
 }
